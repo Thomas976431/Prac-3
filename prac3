@@ -36,4 +36,11 @@
 ##else:
 ##    print('Way too cold – stoke up the fire!')
 ##
-
+##Question 5
+import random
+number = int(input('Enter a number: '))
+number == random.randint(1 - 10)
+if number == random.randint(7):
+    print('Well done - you guessed it!Too bad - better luck next time')
+else:
+    print('Too bad - better luck next time')
