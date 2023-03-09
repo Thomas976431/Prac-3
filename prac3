@@ -1,0 +1,39 @@
+## Question 1
+##carSpeed = int(input('Enter a speed: '))
+##if carSpeed >= 65:
+##    print('Too fast - Fine!')
+##else:
+##    print('No fine')
+##
+## Question 2
+##number = int(input('Enter a number: '))
+##if number % 2 == 0:
+##    print('Even number')
+##else:
+##    print('Odd number')
+##
+## Question 3
+##Time = int(input('Enter a Time(in seconds): '))
+##if Time <= 100:
+##     print('Stage 1')
+##elif Time <= 170:
+##     print('Stage 2')
+##elif Time <= 260:
+##     print('Stage 3')
+##else:
+##    print ('free flight')
+##    
+##Question 4
+##Temperature = int(input('Enter a Temperature: '))
+##if Temperature >= 40:
+##   print('Way too hot - stay inside')
+##elif Temperature >= 30:
+##   print('Hot - beach time!')
+##elif Temperature >= 20:
+##    print('Lovely day - how about a picnic!?!')
+##elif Temperature >= 10:
+##    print('On the cold side – better take a jacket!')
+##else:
+##    print('Way too cold – stoke up the fire!')
+##
+
